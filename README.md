@@ -1,7 +1,7 @@
 
 #### Part A (Theory)
 
-#### 1)
+#### 1)Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
 
 While working on internet website the terms frontend and backend refer to the separation of concerns between the presentation layer (frontend), and the data access layer (backend). The front is an abstraction, simplifying the underlying component by providing a user-friendly interface, while the back usually handles data storage and business logic.Here's a breakdown of how the front-end and back-end work in the context of an internet website:
 
@@ -35,7 +35,7 @@ Database: It stores and manages the website's data. It allows for data retrieval
 
 
 
-#### 2)
+#### 2)What are tags in HTML? Explain the each category of tag with an Example.
 
 HTML tags are like keywords which defines that how web browser will format and display the content. With the help of tags, a web browser can distinguish between an HTML content and a simple content. HTML tags contain three main parts: opening tag, content and closing tag. But some HTML tags are unclosed tags.
 
@@ -118,7 +118,7 @@ Example of an ordered list:
   <li>Third item</li>
 </ol>
 
-#### 3)
+#### 3)Explain the working Procedure of Virtual DOM.
 
 DOM stands for ‘Document Object Model’. In simple terms, it is a structured representation of the HTML elements that are present in a webpage or web-app. DOM represents the entire UI of your application. The DOM is represented as a tree data structure. It contains a node for each UI element present in the web document.
 
